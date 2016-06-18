@@ -1,2 +1,2 @@
-# imitate JD-index.html part01
+# imitate JD-index.html
 ## just a static page demo
